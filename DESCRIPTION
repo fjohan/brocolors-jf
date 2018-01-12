@@ -1,0 +1,9 @@
+Package: brocolors
+Version: 0.1
+Date: 2018-01-12
+Title: Johan Frid Colors, based on Karl Broman Colors
+Description: Colors that Karl Broman uses in figures.
+Author: Johan Frid <johan.frid@humlab.lu.se>
+Maintainer: Johan Frid <johan.frid@humlab.lu.se>
+RoxygenNote: 6.0.1
+License: MIT + file LICENSE
